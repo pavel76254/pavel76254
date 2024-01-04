@@ -10,3 +10,21 @@
 ![Screenshot_43](https://github.com/pavel76254/pavel76254/blob/main/StartML.png)
 
 Ссылка на сертификат: https://lab.karpov.courses/certificate/78988433-235c-4569-9bf5-24679cc2985d/
+
+![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
+![sklearn](https://img.shields.io/badge/scikitlearn-FFF?style=for-the-badge&logo=scikitlearn)
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+keras
+pytorch
+SQL
+Jupyter Notebook
+Git
+Fast API
+SQLAlchemy
+Airflow
+PostgreSQL
