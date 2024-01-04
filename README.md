@@ -11,6 +11,8 @@
 
 Ссылка на сертификат: https://lab.karpov.courses/certificate/78988433-235c-4569-9bf5-24679cc2985d/
 
+Мой стек технологий:
+
 ![Python](https://img.shields.io/badge/-Python-gray?style=for-the-badge&logo=python)
 ![Sklearn](https://img.shields.io/badge/scikitlearn-gray?style=for-the-badge&logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/pandas-gray?style=for-the-badge&logo=pandas)
@@ -23,8 +25,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-gray?style=for-the-badge&logo=SQL)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-gray?style=for-the-badge&logo=Jupyter)
 ![Git](https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=Git)
-Git
-Fast API
-SQLAlchemy
-Airflow
-PostgreSQL
+![FastAPI](https://img.shields.io/badge/-FastAPI-gray?style=for-the-badge&logo=FastAPI)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-gray?style=for-the-badge&logo=SQLAlchemy)
+![Airflow](https://img.shields.io/badge/-Airflow-gray?style=for-the-badge&logo=apacheairflow)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-gray?style=for-the-badge&logo=PostgreSQL)
+
