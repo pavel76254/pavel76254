@@ -7,4 +7,4 @@
 
 В 2023 году окончил курс Start ML от команды KARPOV.COURSES. ⚡⚡⚡
 
-![Header](https://github.com/pavel76254/pavel76254/blob/main/StartML.pdf?raw=true)
+![Screenshot_43](https://github.com/pavel76254/pavel76254/blob/main/StartML.pdf)
