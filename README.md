@@ -30,3 +30,8 @@
 ![Airflow](https://img.shields.io/badge/-Airflow-gray?style=for-the-badge&logo=apacheairflow)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-gray?style=for-the-badge&logo=PostgreSQL)
 
+Мои контакты:
+
+![VK](https://img.shields.io/badge/-gmail-gray?style=for-the-badge&logo=gmail#center) pavel55645@gmail.com
+
+![VK](https://img.shields.io/badge/-VK-gray?style=for-the-badge&logo=vk) https://vk.com/paveltarabanov
